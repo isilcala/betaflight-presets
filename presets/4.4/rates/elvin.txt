@@ -5,8 +5,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: 
 #$ AUTHOR: Elvin
-#$ DESCRIPTION: Rates with 670 deg/sec. Relatively smooth around the sticks middle.
-#$ INCLUDE: presets/4.4/rates/defaults.txt
+#$ DESCRIPTION: Rates with 670 deg/sec. Smooth around the sticks middle.
 
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
