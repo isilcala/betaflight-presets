@@ -1,0 +1,10 @@
+#$ TITLE: Elvin's VTX channel
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  vtx
+#$ AUTHOR: Elvin
+
+set vtx_band = 3
+set vtx_channel = 1
+set vtx_low_power_disarm = UNTIL_FIRST_ARM

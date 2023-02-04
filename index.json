@@ -3517,6 +3517,40 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/modes/elvin.txt",
+      "hash": "91c091a7814714bdc90dcb3783b1c7b33c4a3da27371789b8a06fd70eca6f6f2",
+      "title": "Elvin's Modes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Elvin",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/elvin.txt",
+      "hash": "fdfe9a4b25298203373c27d70cac0f9fd58922da62800fef751ed10ba4c1aff5",
+      "title": "Elvin - Analog",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog"
+      ],
+      "author": "Elvin",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/Street_League_motor_outputs.txt",
       "hash": "818ab0552ce3e055e2b3157551b5bc1eb31bd6c1a39ec54fb748f2cb378023e8",
       "title": "Street League Motor Output Limit Settings",
@@ -4303,6 +4337,21 @@
         "MSP VTX"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/elvin.txt",
+      "hash": "c509d275496dc0fad1669ab25ff7cd2681be28978c93d6f3927d5ea2494358b9",
+      "title": "Elvin's VTX channel",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx"
+      ],
+      "author": "Elvin",
       "priority": 1000000
     }
   ]
