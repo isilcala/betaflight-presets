@@ -1,3 +1,13 @@
+#$ TITLE: Elvin rates
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: RATES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 
+#$ AUTHOR: Elvin
+#$ DESCRIPTION: Rates with 670 deg/sec. Relatively smooth around the sticks middle.
+#$ INCLUDE: presets/4.4/rates/defaults.txt
+
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
 set roll_rc_rate = 7
