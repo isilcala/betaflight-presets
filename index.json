@@ -3518,7 +3518,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/elvin.txt",
-      "hash": "91c091a7814714bdc90dcb3783b1c7b33c4a3da27371789b8a06fd70eca6f6f2",
+      "hash": "875d909e726f449d548d1ade3e537aa2a5a918d292591d3c31bdf3eaf093d67b",
       "title": "Elvin's Modes",
       "firmware_version": [
         "4.4"
@@ -3537,7 +3537,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/elvin.txt",
-      "hash": "fdfe9a4b25298203373c27d70cac0f9fd58922da62800fef751ed10ba4c1aff5",
+      "hash": "dad153cf27ccd2a4d5fc13763cdcdee91bd32aa4e130ef5cd694593b68cba922",
       "title": "Elvin - Analog",
       "firmware_version": [
         "4.4"
@@ -3635,7 +3635,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/elvin.txt",
-      "hash": "10015950db6e04b40fb9bdab283cefa13fb88df7dad050e9513945d7c1e5a698",
+      "hash": "9b9816d72be9e2f794f66a756cf28b3c5e363c0a1cd04a4461fbef4c19575bc7",
       "title": "Elvin rates",
       "firmware_version": [
         "4.3",
@@ -4341,7 +4341,7 @@
     },
     {
       "fullPath": "presets/4.4/vtx/elvin.txt",
-      "hash": "c509d275496dc0fad1669ab25ff7cd2681be28978c93d6f3927d5ea2494358b9",
+      "hash": "673168ed169dc603f903583b51effb1aa5bb1f89447d767daa4755e43976a02f",
       "title": "Elvin's VTX channel",
       "firmware_version": [
         "4.4"
