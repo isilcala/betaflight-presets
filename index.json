@@ -3537,7 +3537,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/elvin.txt",
-      "hash": "fdfe9a4b25298203373c27d70cac0f9fd58922da62800fef751ed10ba4c1aff5",
+      "hash": "091bd80a356eefc52ce6f225cafb9a6f27fa062e6cf7161ed71d1223455eeaf5",
       "title": "Elvin - Analog",
       "firmware_version": [
         "4.4"
@@ -3545,7 +3545,7 @@
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "analog"
+        "OSD"
       ],
       "author": "Elvin",
       "priority": 0
